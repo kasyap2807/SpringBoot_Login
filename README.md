@@ -13,6 +13,18 @@ Spring Boot Login and Signup using Authentication and Spring Security
 ### JJWT : API
 ### JJWT : JACKSON
 
+
+## HOW TO RUN????...
+
+Step - 1 -> Download Code in ZIP form
+Step - 2 -> Extract Zip Code
+Step - 3 -> Open It in intelliJ IDEA Community Edition
+Step - 4 -> Refresh the Maven
+Step - 5 -> Update The Mysql User, Password and DataBase
+Step - 6 -> Run The Spring Boot 
+Step - 7 -> Server Will Run in Localhost:8080 Port
+Step - 8 -> Test It in Spring Boot
+
 ## API
 
 ### Login API 
