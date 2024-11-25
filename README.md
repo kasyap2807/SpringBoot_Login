@@ -23,7 +23,7 @@ Step - 4 -> Refresh the Maven <br/> <br/>
 Step - 5 -> Update The Mysql User, Password and DataBase <br/> <br/>
 Step - 6 -> Run The Spring Boot <br/> <br/>
 Step - 7 -> Server Will Run in Localhost:8080 Port <br/> <br/>
-Step - 8 -> Test It in Spring Boot
+Step - 8 -> Test It in PostMan 
 
 ## API
 
